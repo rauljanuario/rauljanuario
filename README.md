@@ -27,6 +27,8 @@ Me chamo Raul, tenho 19 anos e sou natural do Rio de Janeiro. Sou estudante de E
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" title="Java" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" title="Spring Boot" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="30" title="JUnit 5" alt="JUnit 5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="30" title="Docker" alt="Docker"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" title="Git" alt="Git" />
