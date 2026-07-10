@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Raul, tenho 20 anos e sou natural do Rio de Janeiro. Sou estudante de Engenharia de Software do Centro Universitario Internacional - Uninter, tenho uma paixão por tecnologia e hoje sigo desenvolvendo aplicações BackEnd com Java. Estou trabalhando todos os dias para conseguir minha primeira oportunidade!
+Me chamo Raul, tenho 20 anos e sou natural do Rio de Janeiro. Sou estudante de Engenharia de Software do Centro Universitario Internacional - Uninter, tenho uma paixão por tecnologia e hoje sigo desenvolvendo aplicações BackEnd com Java. Estou trabalhando todos os dias para conseguir uma oportunidade de aplicar esses conhecimentos em um ambiente profissional!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rauljanuario/">
