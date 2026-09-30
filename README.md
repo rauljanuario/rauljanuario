@@ -2,7 +2,9 @@
 
 **`Desenvolvedor BackEnd`**
 
-Tenho 20 anos e sou natural do Rio de Janeiro. Sou estudante de Engenharia de Software do Centro Universitario Internacional - Uninter, tenho uma paixão por tecnologia e hoje sigo desenvolvendo aplicações BackEnd com Java. Estou trabalhando todos os dias para conseguir uma oportunidade de aplicar esses conhecimentos em um ambiente profissional!
+Olá! Sou estudante de Engenharia de Software na Uninter e atuo como Desenvolvedor Back-End, focado na criação de aplicações escaláveis, seguras e testáveis.
+
+Meu desenvolvimento é centrado na construção de APIs RESTful completas. Tenho domínio prático do ecossistema Java e foco constante na integridade de dados e arquitetura, utilizando bancos relacionais, versionamento de banco e garantindo a qualidade das regras de negócio através de testes unitários.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rauljanuario/">
